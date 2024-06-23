@@ -1,6 +1,17 @@
 # Expense Tracker
 Manage your expense
 <br>
-![image](https://github.com/YogitaGole/Expense-Tracker/assets/125989644/f706f6eb-76db-4412-94fe-a0c87b627add)
+<br>
+Modules:
+User
+•	Registration (mobile, password, name, email, monthly budget, income) ->OTP verification 
+•	Login 
+•	Update profile (monthly budget, income)
+•	Add expense (Category, amount, date) --> Alert for exceeding budget 
+•	Display category wise expenditure of current month as chart
+•	View History
+•	Upload bills
+•	View bills
+•	 Logout
 
 <br>
